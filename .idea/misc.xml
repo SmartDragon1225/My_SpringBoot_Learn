@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-01/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-02/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-03/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-03-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-04-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-05-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-06-MyBatis-MVC/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootRestful/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-07-Restful/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-08-MyBatis-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-09-Cache/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-10-Redis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-11-send-message/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-12-SpringSecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-13-MVC-SpringSecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-14-SpringSecurity-login/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-15-SpringSecurity-Shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot_Redis_Cache/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-RabbitMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-00-Demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

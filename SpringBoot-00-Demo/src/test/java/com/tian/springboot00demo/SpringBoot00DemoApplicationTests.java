@@ -1,0 +1,13 @@
+package com.tian.springboot00demo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringBoot00DemoApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}

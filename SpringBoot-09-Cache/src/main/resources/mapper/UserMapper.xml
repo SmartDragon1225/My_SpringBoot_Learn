@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.tian.dao.UserDao">
+
+    <select id="listAll" resultType="User">
+        select * from user
+    </select>
+
+    <select id="selectById" resultType="User">
+        select * from user where id = #{id}
+    </select>
+
+    <insert id="add">
+        insert into user value (#{id},#{username},#{password})
+    </insert>
+
+    <delete id="deleteById" parameterType="int">
+        delete from user where id = #{id}
+    </delete>
+
+    <update id="update" parameterType="User">
+        update user set username=#{username},password=#{password} where id=#{id}
+    </update>
+</mapper>

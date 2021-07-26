@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringBoot-05-mybatis" />
+        <module name="SpringBoot-07-Restful" />
+        <module name="SpringBoot-11-send-message" />
+        <module name="SpringBoot-00-Demo" />
+        <module name="SpringBoot" />
+        <module name="SpringBoot-01" />
+        <module name="demo" />
+        <module name="SpringBoot-10-Redis" />
+        <module name="SpringBoot-RabbitMQ" />
+        <module name="SpringBoot-04-filter" />
+        <module name="SpringBoot_Redis_Cache" />
+        <module name="SpringBoot-02" />
+        <module name="SpringBoot-03" />
+        <module name="demo (2)" />
+        <module name="demo (1)" />
+        <module name="SpringBoot-06-MyBatis-MVC" />
+        <module name="SpringBootRestful" />
+        <module name="demo (3)" />
+        <module name="SpringBoot-03-aop" />
+        <module name="SpringBoot-09-Cache" />
+        <module name="SpringBoot-08-MyBatis-xml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="demo (1)" target="1.8" />
+      <module name="demo (2)" target="1.8" />
+      <module name="demo (3)" target="1.8" />
+      <module name="SpringBoot" target="1.8" />
+      <module name="SpringBoot-00-Demo" target="1.8" />
+      <module name="SpringBoot-01" target="1.8" />
+      <module name="SpringBoot-02" target="1.8" />
+      <module name="SpringBoot-03" target="1.8" />
+      <module name="SpringBoot-03-aop" target="1.8" />
+      <module name="SpringBoot-04-filter" target="1.8" />
+      <module name="SpringBoot-05-mybatis" target="1.8" />
+      <module name="SpringBoot-06-MyBatis-MVC" target="1.8" />
+      <module name="SpringBoot-07-Restful" target="1.8" />
+      <module name="SpringBoot-08-MyBatis-xml" target="1.8" />
+      <module name="SpringBoot-09-Cache" target="1.8" />
+      <module name="SpringBoot-10-Redis" target="1.8" />
+      <module name="SpringBoot-11-send-message" target="1.8" />
+      <module name="SpringBoot-RabbitMQ" target="1.8" />
+      <module name="SpringBoot_Redis_Cache" target="1.8" />
+      <module name="SpringBootRestful" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBoot" options="-parameters" />
+      <module name="SpringBoot-00-Demo" options="-parameters" />
+      <module name="SpringBoot-01" options="-parameters" />
+      <module name="SpringBoot-02" options="-parameters" />
+      <module name="SpringBoot-03" options="-parameters" />
+      <module name="SpringBoot-03-aop" options="-parameters" />
+      <module name="SpringBoot-04-filter" options="-parameters" />
+      <module name="SpringBoot-05-mybatis" options="-parameters" />
+      <module name="SpringBoot-06-MyBatis-MVC" options="-parameters" />
+      <module name="SpringBoot-07-Restful" options="-parameters" />
+      <module name="SpringBoot-08-MyBatis-xml" options="-parameters" />
+      <module name="SpringBoot-09-Cache" options="-parameters" />
+      <module name="SpringBoot-10-Redis" options="-parameters" />
+      <module name="SpringBoot-11-send-message" options="-parameters" />
+      <module name="SpringBoot-RabbitMQ" options="-parameters" />
+      <module name="SpringBootRestful" options="-parameters" />
+      <module name="SpringBoot_Redis_Cache" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo (1)" options="-parameters" />
+      <module name="demo (2)" options="-parameters" />
+      <module name="demo (3)" options="-parameters" />
+    </option>
+  </component>
+</project>
